@@ -1,43 +1,43 @@
-<!-- Bannière (optionnelle) -->
-<img src="https://raw.githubusercontent.com/lerrojm/nom-du-repo/main/chemin/vers/image.png)">
+<!-- Banner (optional) -->
+<img src="https://raw.githubusercontent.com/lerrojm/your-repo-name/main/images/banner.png" alt="Jean-Marc Lerro - Product Owner" width="100%">
 
-# 👋 Salut, moi c’est Jean-Marc
+# 👋 Hi there, I'm Jean-Marc
 
-🎯 **Product Owner** avec une formation d’**ingénieur informatique**  
-📍 Basé en **Italie**, disponible pour des projets en **remote ou sur place**  
-💬 J’aime transformer des idées en produits concrets, utiles, et performants.
-
----
-
-## 🔧 Compétences & outils
-
-- 📊 Gestion de projet : Jira, Trello, Notion  
-- 🧠 Outils CRM : Salesforce, HubSpot  
-- 🤖 Intérêt : IA générative, NLP, expérience utilisateur  
-- 👥 Méthodes : Agile, Scrum, Design thinking
+🎯 **Product Owner** with a background in **Computer Engineering**  
+📍 Based in **Italy**, open to **remote or on-site opportunities**  
+💬 Passionate about turning ideas into useful and efficient products
 
 ---
 
-## 🎯 Ce que je cherche
+## 🔧 Skills & Tools
 
-- 💡 Des **collaborations tech** (freelance, startup, projets IA)  
-- 🤝 Des missions en tant que **Product Owner ou Chef de projet**  
-- 🌍 Des connexions dans la **communauté tech en Italie**
-
----
-
-## 📈 Statistiques GitHub
-
-![Visits](https://komarev.com/ghpvc/?username=lerrojm&color=blue)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=lerrojm&layout=compact&theme=default)
+- 📊 Project Management: Jira, Trello, Notion  
+- 🧠 CRM Tools: Salesforce, HubSpot  
+- 🤖 Interests: Generative AI, NLP, User Experience  
+- 👥 Methods: Agile, Scrum, Design Thinking
 
 ---
 
-## 📬 Me contacter
+## 🎯 Looking for
 
-- 🔗 [Mon LinkedIn] jean-marc LERRO
+- 💡 **Tech collaborations** (freelance, startups, AI projects)  
+- 🤝 Roles as a **Product Owner** or **Project Manager**  
+- 🌍 Networking within the **tech community in Italy**
+
+---
+
+## 📈 GitHub Stats
+
+![Visits](https://komarev.com/ghpvc/?username=lerrojm&color=blue)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerrojm&layout=compact&theme=default)
+
+---
+
+## 📬 Contact Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jean-marc-lerro/)  
 - 📧 orrelstef@gmail.com
 
 ---
 
-> _"Créer des produits utiles, humains, et efficaces."_  
+> _"Creating useful, human-centered, and impactful products."_
